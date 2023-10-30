@@ -18,6 +18,7 @@ int tich(int a, int b)
 }
 void main()
 {
+	//sdgdfhd
 int a, b;
 cout<<"Nhap a = ";
 cin>>a;
